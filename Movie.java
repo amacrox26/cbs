@@ -15,6 +15,12 @@ public class Movie {
 		fsk = theFsk;
 		genre = theGenre;
 		
+	public Movie() {
+		
+		
 	}
+	
+	}
+	
 	
 }
